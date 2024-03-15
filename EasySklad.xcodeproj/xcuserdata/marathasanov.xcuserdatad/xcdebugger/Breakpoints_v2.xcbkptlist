@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B0D7563-CCFE-4481-9999-9609C40EE91E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "978DFA9C-6661-4BB7-B894-B128433A902C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/SkladPlacementController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "placeBoxesOnShelf(boxes:shelf:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "978DFA9C-6661-4BB7-B894-B128433A902C - 332fcb224eebe7e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "978DFA9C-6661-4BB7-B894-B128433A902C - 332fcb224eebe7e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC7190E8-E33D-4197-8CA6-6A52BF91ABEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/SkladPlacementController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "placeBoxesOnShelf(boxes:shelf:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC7190E8-E33D-4197-8CA6-6A52BF91ABEE - 332fcb224eebe696"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "FC7190E8-E33D-4197-8CA6-6A52BF91ABEE - 332fcb224eebe6f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58E93F85-366D-453B-A680-AC7FEBD86E86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/SkladPlacementController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "placeBoxesOnShelf(boxes:shelf:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58E93F85-366D-453B-A680-AC7FEBD86E86 - 332fcb224eebe545"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1112">
+               </Location>
+               <Location
+                  uuid = "58E93F85-366D-453B-A680-AC7FEBD86E86 - 332fcb224eebe4a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "868">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26720B54-41C0-436A-844A-7D0404F08701"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/SkladPlacementController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "placeBoxesOnShelf(boxes:shelf:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E444FAF-B01F-4988-A189-3D564A9F4B11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/SkladPlacementController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "placeBoxesOnShelf(boxes:shelf:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E444FAF-B01F-4988-A189-3D564A9F4B11 - 332fcb224eebe3c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1568">
+               </Location>
+               <Location
+                  uuid = "0E444FAF-B01F-4988-A189-3D564A9F4B11 - 332fcb224eebe328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.SkladPlacementController.placeBoxesOnShelf(boxes: Swift.Array&lt;EasySklad.Box&gt;, shelf: EasySklad.Shelf) -&gt; (remainingSpace: (length: Swift.Int, width: Swift.Int, height: Swift.Int), currentWeight: Swift.Int, placedBoxes: Swift.Array&lt;EasySklad.Box&gt;, remainingVolume: Swift.Int)"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/EasySclad/EasySklad/EasySklad/Controller/SkladPlacementController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BD04A2F-646C-4245-BE80-DE81DA5032F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/KhasanovMethodController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "placeBoxesOnShelves(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4BD04A2F-646C-4245-BE80-DE81DA5032F1 - e4d8415b36280256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.KhasanovMethodController.placeBoxesOnShelves(Swift.Array&lt;EasySklad.Box&gt;, Swift.Array&lt;EasySklad.Shelf&gt;) -&gt; Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Sklad/EasySklad/EasySklad/Controller/KhasanovMethodController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "4BD04A2F-646C-4245-BE80-DE81DA5032F1 - e4d8415b36280256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.KhasanovMethodController.placeBoxesOnShelves(Swift.Array&lt;EasySklad.Box&gt;, Swift.Array&lt;EasySklad.Shelf&gt;) -&gt; Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Sklad/EasySklad/EasySklad/Controller/KhasanovMethodController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5740479-C631-48C1-9184-1D4609419645"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/KhasanovMethodController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "placeBoxesOnShelves(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5740479-C631-48C1-9184-1D4609419645 - e4d8415b362803da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.KhasanovMethodController.placeBoxesOnShelves(Swift.Array&lt;EasySklad.Box&gt;, Swift.Array&lt;EasySklad.Shelf&gt;) -&gt; Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Sklad/EasySklad/EasySklad/Controller/KhasanovMethodController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "D5740479-C631-48C1-9184-1D4609419645 - e4d8415b362803da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.KhasanovMethodController.placeBoxesOnShelves(Swift.Array&lt;EasySklad.Box&gt;, Swift.Array&lt;EasySklad.Shelf&gt;) -&gt; Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Sklad/EasySklad/EasySklad/Controller/KhasanovMethodController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "259F7974-CABA-49AD-A1B2-4C72E0CE9118"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EasySklad/Controller/KhasanovMethodController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "placeBoxesOnShelves(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "259F7974-CABA-49AD-A1B2-4C72E0CE9118 - e4d8415b3628054f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.KhasanovMethodController.placeBoxesOnShelves(Swift.Array&lt;EasySklad.Box&gt;, Swift.Array&lt;EasySklad.Shelf&gt;) -&gt; Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Sklad/EasySklad/EasySklad/Controller/KhasanovMethodController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1468">
+               </Location>
+               <Location
+                  uuid = "259F7974-CABA-49AD-A1B2-4C72E0CE9118 - e4d8415b3628054f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EasySklad.KhasanovMethodController.placeBoxesOnShelves(Swift.Array&lt;EasySklad.Box&gt;, Swift.Array&lt;EasySklad.Shelf&gt;) -&gt; Swift.Dictionary&lt;Swift.Int, Swift.Array&lt;Swift.Int&gt;&gt;"
+                  moduleName = "EasySklad"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marathasanov/Desktop/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20Sklad/EasySklad/EasySklad/Controller/KhasanovMethodController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
