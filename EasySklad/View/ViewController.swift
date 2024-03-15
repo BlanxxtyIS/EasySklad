@@ -32,7 +32,8 @@ class ViewController: UIViewController {
 
     private let khasanovSklad = KhasanovMethodController()
 
-    override func viewDidLoad() {        
+    override func viewDidLoad() {  
+        print("STart")
         let box = BoxController()
         let shelf = ShelfController()
         let boxSorted = box.getSortedBoxes(boxes)
